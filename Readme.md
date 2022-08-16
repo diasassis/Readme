@@ -1,0 +1,1 @@
+Olá, me chamo Leonardo Assis e estou estudando programação, atualmente focado em Front End.
